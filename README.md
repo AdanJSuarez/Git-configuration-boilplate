@@ -3,9 +3,9 @@ Make Git a beautiful tool ;)
 
 Downloading necessary files
 
-Save this file in your home directory with the name git-completion.bash.
+Save this [file](https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash) in your home directory with the name git-completion.bash.
 
-Save this file in your home directory with the name git-prompt.sh.
+Save this [file](https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh) in your home directory with the name git-prompt.sh.
 
 Download bash_profile_course.
 
