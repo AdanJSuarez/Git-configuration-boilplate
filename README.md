@@ -6,7 +6,7 @@ Save this file in your home directory with the name git-completion.bash.
 Save this file in your home directory with the name git-prompt.sh.
 Download bash_profile_course.
 
-If you already have a file in your home directory named .bash_profile, copy the content from bash_profile_course and paste it at the bottom of .bash_profile. Otherwise, move bash_profile_course to your home directory and rename it to .bash_profile. If you use Linux, you may need to name this file .bashrc instead of .bash_profile. (If you're curious to learn more about how bash prompts work, see this page [a link](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html))
+If you already have a file in your home directory named .bash_profile, copy the content from bash_profile_course and paste it at the bottom of .bash_profile. Otherwise, move bash_profile_course to your home directory and rename it to .bash_profile. If you use Linux, you may need to name this file .bashrc instead of .bash_profile. (If you're curious to learn more about how bash prompts work, see this [page](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html))
 
 Make sure you can start your editor from the terminal
 If you use Sublime, you can do this by add the following line to your .bash_profile (you may need to change the path if Sublime is installed in a different location for you):
